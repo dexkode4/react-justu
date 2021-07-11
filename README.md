@@ -1,11 +1,11 @@
-# react-tool-box
+# react-justu
 A cool library that contains set of tools for common implementations
 ## Installation
 
 Using npm:
 
 ```shell
-$ npm i react-tool-box
+$ npm i react-tool-box 
 ```
 
 Using yarn:
