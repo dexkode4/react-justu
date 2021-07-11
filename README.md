@@ -5,13 +5,13 @@ A cool library that contains set of tools for common implementations
 Using npm:
 
 ```shell
-$ npm i react-tool-box
+$ npm i react-tool-box --save-dev
 ```
 
 Using yarn:
 
 ```shell
-$ npm i react-tool-box
+$ yarn add -D react-tool-box
 ```
 
 ## Usage
