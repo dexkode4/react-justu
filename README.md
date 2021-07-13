@@ -5,20 +5,20 @@ A cool library that contains set of tools for common implementations
 Using npm:
 
 ```shell
-$ npm i react-tool-box --save-dev
+$ npm i react-justu --save-dev
 ```
 
 Using yarn:
 
 ```shell
-$ yarn add -D react-tool-box
+$ yarn add -D react-justu
 ```
 
 ## Usage
 
 ```jsx
 import { useRef } from "react";
-import { useClickOutside } from "react-tool-box";
+import { useClickOutside } from "react-justu";
 
 export const MyComponent = () => {
   const wrapperRef = useRef(null);
