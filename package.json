@@ -1,6 +1,6 @@
 {
   "name": "react-justu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dexkode4/react-tool-box"
+    "url": "git+https://github.com/dexkode4/react-justu"
   },
   "peerDependencies":{
     "react": "^17.0.2",
